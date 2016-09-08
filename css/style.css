@@ -5,5 +5,21 @@
 #topContainer{
   background-image: url("https://static.pexels.com/photos/1188/city-landmark-lights-night.jpg");
   height:400px;
-  
+  width: 100%;
+  background-size: cover;
+
+}
+#topRow{
+  text-align:center;
+  margin-top:100px;
+}
+h1{
+  color:red;
+  font-size:300%
+}
+p{
+  color:yellow;
+}
+.bold{
+  font-weight:bold;
 }
