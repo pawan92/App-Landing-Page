@@ -18,8 +18,18 @@ h1{
   font-size:300%
 }
 p{
-  color:yellow;
+  color:orange;
 }
 .bold{
   font-weight:bold;
+}
+.marginTop{
+  margin-top:10px;
+}
+.title{
+  font-size:300%;
+  margin-top:100px;
+}
+.center{
+  text-align:center;
 }
